@@ -12,9 +12,13 @@
 ### Data Structures
 
 https://www.free-online-calculator-use.com/postfix-evaluator.html
+
 https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html
+
 https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
+
 https://lnogueir.github.io/expression-tree-gen/
+
 http://btv.melezinek.cz/binary-search-tree.html
 
 ### Database Systens
@@ -29,3 +33,13 @@ https://www.interviewbit.com/
 ## Semester 4
 
 ### Software Requirement Enginnering
+### Computer Networks
+
+https://gaia.cs.umass.edu/kurose_ross/interactive/
+
+https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
+
+
+### Numerical Methos
+### Computer Organization and Archeticture
+### 
