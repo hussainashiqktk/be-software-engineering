@@ -38,6 +38,7 @@ https://www.interviewbit.com/
 https://gaia.cs.umass.edu/kurose_ross/interactive/
 
 https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
+https://www.youtube.com/watch?v=oYeJoJXIP9Q
 
 
 ### Numerical Methos
