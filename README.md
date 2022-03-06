@@ -41,6 +41,6 @@ https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDB
 https://www.youtube.com/watch?v=oYeJoJXIP9Q
 
 
-### Numerical Methos
+### Numerical Methods
 ### Computer Organization and Archeticture
 ### 
