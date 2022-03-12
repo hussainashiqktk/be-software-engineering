@@ -11,23 +11,17 @@
 
 ### Data Structures
 
-https://www.free-online-calculator-use.com/postfix-evaluator.html
-
-https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html
-
-https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
-
-https://lnogueir.github.io/expression-tree-gen/
-
-http://btv.melezinek.cz/binary-search-tree.html
+* https://www.free-online-calculator-use.com/postfix-evaluator.html
+* https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html
+* https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
+* https://lnogueir.github.io/expression-tree-gen/
+* http://btv.melezinek.cz/binary-search-tree.html
 
 ### Database Systens
 
-https://sqliteonline.com/
-
-https://sqlzoo.net/
-
-https://www.interviewbit.com/
+* https://sqliteonline.com/
+* https://sqlzoo.net/
+* https://www.interviewbit.com/
 
 
 ## Semester 4
@@ -35,23 +29,19 @@ https://www.interviewbit.com/
 ### Software Requirement Enginnering
 ### Computer Networks
 
-https://gaia.cs.umass.edu/kurose_ross/interactive/
-
-https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
-https://www.youtube.com/watch?v=oYeJoJXIP9Q
+* https://gaia.cs.umass.edu/kurose_ross/interactive/
+* https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
+* https://www.youtube.com/watch?v=oYeJoJXIP9Q
 
 
 ### Numerical Methods
 ### Computer Organization and Archeticture
 
-https://www.youtube.com/watch?v=L1ung0wil9Y
-
-8086 Assembly Language Programming For Beginners : https://www.youtube.com/playlist?list=PL7i2wta8UEF6lYj7RO3CLeccXFUm_Q29r
+* https://www.youtube.com/watch?v=L1ung0wil9Y
+* 8086 Assembly Language Programming For Beginners : https://www.youtube.com/playlist?list=PL7i2wta8UEF6lYj7RO3CLeccXFUm_Q29r
 
 ### TOC and Formal Languages
 
-Regular Expressions Exercises : https://opendsa-server.cs.vt.edu/OpenDSA/Books/PIFLAS21/html/RegExExercises.html
-
-Regular Language Practice Problems : https://ycpcs.github.io/cs340-fall2016/practice/reglang.html
-
-Exercise Questions on Regular Language and Regular Expression : https://www.cs.odu.edu/~toida/nerzic/390teched/regular/reg-lang/examples.html
+* Regular Expressions Exercises : https://opendsa-server.cs.vt.edu/OpenDSA/Books/PIFLAS21/html/RegExExercises.html
+* Regular Language Practice Problems : https://ycpcs.github.io/cs340-fall2016/practice/reglang.html
+* Exercise Questions on Regular Language and Regular Expression : https://www.cs.odu.edu/~toida/nerzic/390teched/regular/reg-lang/examples.html
