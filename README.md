@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=oYeJoJXIP9Q
 
 ### Numerical Methods
 ### Computer Organization and Archeticture
+
+https://www.youtube.com/watch?v=L1ung0wil9Y
+
 ### TOC and Formal Languages
 
 Regular Expressions Exercises : https://opendsa-server.cs.vt.edu/OpenDSA/Books/PIFLAS21/html/RegExExercises.html
