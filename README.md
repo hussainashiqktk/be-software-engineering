@@ -46,6 +46,8 @@ https://www.youtube.com/watch?v=oYeJoJXIP9Q
 
 https://www.youtube.com/watch?v=L1ung0wil9Y
 
+8086 Assembly Language Programming For Beginners : https://www.youtube.com/playlist?list=PL7i2wta8UEF6lYj7RO3CLeccXFUm_Q29r
+
 ### TOC and Formal Languages
 
 Regular Expressions Exercises : https://opendsa-server.cs.vt.edu/OpenDSA/Books/PIFLAS21/html/RegExExercises.html
