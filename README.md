@@ -5,6 +5,12 @@
 ## To Contribute
 Fork the repository. Add material. Make a pull request.
 
+## How to Clone ?
+
+~~~
+git clone https://github.com/hussainashiqktk/be-software-engineering.git
+~~~
+
 ## Semester 1
 
 ## Semester 2
