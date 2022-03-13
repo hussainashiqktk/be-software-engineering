@@ -28,13 +28,13 @@ Fork the repository. Add material. Make a pull request.
 
 ## Semester 4
 
-### Software Requirement Enginnering
+### Software Requirement Engineering
 ### Computer Networks
 
 * https://gaia.cs.umass.edu/kurose_ross/interactive/
 * https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
 * https://www.youtube.com/watch?v=oYeJoJXIP9Q
-* Computer Communications Specialization Coursera : https://www.coursera.org/payments/finaid?cartId=222339539&specialization=computer-communications
+* Computer Communications Specialization Coursera : https://www.coursera.org/specializations/computer-communications
 
 
 ### Numerical Methods
