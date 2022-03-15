@@ -33,7 +33,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 * https://lnogueir.github.io/expression-tree-gen/
 * http://btv.melezinek.cz/binary-search-tree.html
 
-### Database Systens
+### Database Systems
 
 * https://sqliteonline.com/
 * https://sqlzoo.net/
