@@ -22,6 +22,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ## Usefull Repositories on Github
   * [Evergreen-Skills-Developers](https://github.com/romenrg/evergreen-skills-developers) <br>
     List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers /       developers
+  * [Entrepreneurship Resources](https://github.com/charlax/entrepreneurship-resources)
 
 ## Semester 1
 
