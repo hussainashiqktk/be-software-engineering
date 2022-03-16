@@ -15,7 +15,7 @@
 | Semester | Coursers |
 |---|--- |
 | [Semester 1](#semester-1) | <li> Fundamentals of Programming <li> Applied Physics <li> Pakistan Studies <li> Calculus <li> Workshop Practice <li> Discrete Maths |
-| [Semester 2](#semester-2) | <li>  <li> <li> <li> <li> <li> | <li> <li> <li> <li> <li> <li> |
+| [Semester 2](#semester-2) | <li> [Object Oriented Programming](#)  <li> [](#) <li> <li> <li> <li> | <li> <li> <li> <li> <li> <li> |
 | [Semester 3](#semester-3) | <li> [Data Structures and Algorithms](#data-structures-and-algorithms) <li> <li> <li> <li> <li> |
 | [Semester 4](#semester-4) | <li> [Software Requirement Engineering](#software-requirement-engineering) <li> [Computer Networks](#computer-networks) <li> [Numerical Methods](#numerical-methods) <li> [Computer Organization and Archeticture](#computer-organization-and-archeticture) <li> [Theory of Automata and Formal Languages](#theory-of-automata-and-formal-languages) |
   
