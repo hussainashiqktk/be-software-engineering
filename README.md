@@ -2,7 +2,16 @@
 
 ![pexels-thisisengineering-3861972](https://user-images.githubusercontent.com/74835399/148657262-228f3957-7f04-4358-bcab-b51b15be14e0.jpg)
 
-## Table of Contents
+## Table Of Contents
+
+* [How To Contribute](#how-to-contribute)
+* [How to Clone ?](#how-to-clone-?)
+* [Useful Repositories](#useful-repositories)
+* [Academics](#academics)
+* []()
+
+
+## Academics
 
 | Semester | Coursers |
 |---|--- |
@@ -14,7 +23,7 @@
 ## How To Contribute
 Fork the repository. Add material. Make a pull request.
 
-## How to Clone ?
+## How to Clone?
 ~~~
 git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ~~~
