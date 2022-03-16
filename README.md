@@ -64,10 +64,14 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 
 ### Numerical Methods
 ### Computer Organization and Archeticture
-
+* <b> Computer Architecture Complete Course By Princeton University : <\b>
+    * Part 1 : https://www.youtube.com/watch?v=9nuAjYRbITQ
+    * Part 2 : https://youtu.be/foCkCSZXOt8 
+    * Part 3 : https://youtu.be/BHMETwOXvWw
 * https://www.youtube.com/watch?v=L1ung0wil9Y
 * 8086 Assembly Language Programming For Beginners : https://www.youtube.com/playlist?list=PL7i2wta8UEF6lYj7RO3CLeccXFUm_Q29r
 * A visual simulator for teaching computer architecture using the RISC-V instruction set. : https://guillaume-savaton-eseo.github.io/emulsiV/
+*
 
 ### Theory of Automata and Formal Languages
 
