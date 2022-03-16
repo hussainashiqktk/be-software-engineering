@@ -8,7 +8,6 @@
 * [How to Clone ?](#how-to-clone-?)
 * [Useful Repositories](#useful-repositories)
 * [Academics](#academics)
-* []()
 
 
 ## Academics
@@ -28,6 +27,8 @@ Fork the repository. Add material. Make a pull request.
 git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ~~~
 
+## Useful Repositories
+  
 ## Semester 1
 
 ## Semester 2
@@ -72,3 +73,6 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 * Regular Expressions Exercises : https://opendsa-server.cs.vt.edu/OpenDSA/Books/PIFLAS21/html/RegExExercises.html
 * Regular Language Practice Problems : https://ycpcs.github.io/cs340-fall2016/practice/reglang.html
 * Exercise Questions on Regular Language and Regular Expression : https://www.cs.odu.edu/~toida/nerzic/390teched/regular/reg-lang/examples.html
+
+* Visually simulate your DFAs, NFAs and ε-NFAs
+one input symbol at a time : https://ivanzuzak.info/noam/webapps/fsm_simulator/
