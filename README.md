@@ -67,6 +67,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 
 * https://www.youtube.com/watch?v=L1ung0wil9Y
 * 8086 Assembly Language Programming For Beginners : https://www.youtube.com/playlist?list=PL7i2wta8UEF6lYj7RO3CLeccXFUm_Q29r
+* A visual simulator for teaching computer architecture using the RISC-V instruction set. : https://guillaume-savaton-eseo.github.io/emulsiV/
 
 ### Theory of Automata and Formal Languages
 
