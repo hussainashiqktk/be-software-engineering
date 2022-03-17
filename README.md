@@ -55,6 +55,8 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ## Semester 4
 
 ### Software Requirement Engineering
+  * Requirements Engineering: Secure Software Specifications Specialization Coursera : https://www.coursera.org/specializations/requirements-engineering-secure-software
+  
 ### Computer Networks
 
 * https://gaia.cs.umass.edu/kurose_ross/interactive/
