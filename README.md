@@ -29,6 +29,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 
 ## Useful Repositories
   * List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers/developers : https://github.com/romenrg/evergreen-skills-developers
+  * Problem Solving Training for computer science students. : https://github.com/cs-MohamedAyman/Problem-Solving-Training
   
 ## Semester 1
 
