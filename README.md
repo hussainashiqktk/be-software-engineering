@@ -61,7 +61,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 
 * https://gaia.cs.umass.edu/kurose_ross/interactive/
 * https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
-* https://www.youtube.com/watch?v=oYeJoJXIP9Q
+* [Computer NETWORKING Concept ROADMAP](https://www.youtube.com/watch?v=oYeJoJXIP9Q)
 * [Computer Communications Specialization Coursera](https://www.coursera.org/specializations/computer-communications)
 * [Free Cisco Courses](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
 * [Cisco Packet Tracer 2021 || ❗ Crash Course ❗](https://www.youtube.com/watch?v=ty0HMs48U1k)
