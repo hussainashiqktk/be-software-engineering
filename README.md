@@ -8,10 +8,13 @@
 * [How to Clone ?](#how-to-clone-?)
 * [Useful Repositories](#useful-repositories)
 * [**Academics**](#academics)
-  - [Semester 1](./semester-1/README.md)
-  - [Semester 2](./semester-2/README.md)
-  - [Semester 3](./semester-3/README.md)
-  - [Semester 4](./semester-4/README.md)
+  * Semester Wise 
+    - [Semester 1](./semester-1/README.md)
+    - [Semester 2](./semester-2/README.md)
+    - [Semester 3](./semester-3/README.md)
+    - [Semester 4](./semester-4/README.md)
+  * Exercises | Exams | Assements
+    - [Computer Abbreviations Quizzes for Competitive Exams](https://testfellow.com/computer-abbreviations-mcqs-quiz/)
 
 
 ## Academics
