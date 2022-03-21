@@ -36,5 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
    - Cisco Packet Tracer [Download]()
    - GNS3 [Download]()
 
+### Exercises
+  - [Exercise :: Networking Basics - Networking Basics](https://www.indiabix.com/networking/networking-basics/)
+
 
 ## **Theory of Automata and Formal Languages**
