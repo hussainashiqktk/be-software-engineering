@@ -38,6 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Exercises
   - [Exercise :: Networking Basics - Networking Basics](https://www.indiabix.com/networking/networking-basics/)
+  - [Computer Networking Practice Quizzes](https://eflnet.com/networking/index.php)
 
 
 ## **Theory of Automata and Formal Languages**
