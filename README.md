@@ -7,7 +7,11 @@
 * [How To Contribute](#how-to-contribute)
 * [How to Clone ?](#how-to-clone-?)
 * [Useful Repositories](#useful-repositories)
-* [Academics](#academics)
+* [**Academics**](#academics)
+  - [Semester 1](./semester-1/README.md)
+  - [Semester 2](./semester-2/README.md)
+  - [Semester 3](./semester-3/README.md)
+  - [Semester 4](./semester-4/README.md)
 
 
 ## Academics
