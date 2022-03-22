@@ -17,14 +17,7 @@
     - [Computer Abbreviations Quizzes for Competitive Exams](https://testfellow.com/computer-abbreviations-mcqs-quiz/)
 
 
-## Academics
 
-| Semester | Coursers |
-|---|--- |
-| [Semester 1](#semester-1) | <li> Fundamentals of Programming <li> Applied Physics <li> Pakistan Studies <li> Calculus <li> Workshop Practice <li> Discrete Maths |
-| [Semester 2](#semester-2) | <li> [Object Oriented Programming](#)  <li> [](#) <li> <li> <li> <li> | <li> <li> <li> <li> <li> <li> |
-| [Semester 3](#semester-3) | <li> [Data Structures and Algorithms](#data-structures-and-algorithms) <li> <li> <li> <li> <li> |
-| [Semester 4](#semester-4) | <li> [Software Requirement Engineering](#software-requirement-engineering) <li> [Computer Networks](#computer-networks) <li> [Numerical Methods](#numerical-methods) <li> [Computer Organization and Archeticture](#computer-organization-and-archeticture) <li> [Theory of Automata and Formal Languages](#theory-of-automata-and-formal-languages) |
   
 ## How To Contribute
 Fork the repository. Add material. Make a pull request.
@@ -37,7 +30,17 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ## Useful Repositories
   * List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers/developers : https://github.com/romenrg/evergreen-skills-developers
   * Problem Solving Training for computer science students. : https://github.com/cs-MohamedAyman/Problem-Solving-Training
-  
+
+## Academics
+
+| Semester | Coursers |
+|---|--- |
+| [Semester 1](#semester-1) | <li> Fundamentals of Programming <li> Applied Physics <li> Pakistan Studies <li> Calculus <li> Workshop Practice <li> Discrete Maths |
+| [Semester 2](#semester-2) | <li> [Object Oriented Programming](#)  <li> [](#) <li> <li> <li> <li> | <li> <li> <li> <li> <li> <li> |
+| [Semester 3](#semester-3) | <li> [Data Structures and Algorithms](#data-structures-and-algorithms) <li> <li> <li> <li> <li> |
+| [Semester 4](#semester-4) | <li> [Software Requirement Engineering](#software-requirement-engineering) <li> [Computer Networks](#computer-networks) <li> [Numerical Methods](#numerical-methods) <li> [Computer Organization and Archeticture](#computer-organization-and-archeticture) <li> [Theory of Automata and Formal Languages](#theory-of-automata-and-formal-languages) |
+ 
+ 
 ## Semester 1
 
 ## Semester 2
