@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Tools
 
-   - Cisco Packet Tracer [Download]()
+   - Cisco Packet Tracer [Download](https://www.netacad.com/portal/resources/packet-tracer)
    - GNS3 [Download]()
 
 ### Exercises
