@@ -79,6 +79,8 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 
 
 ### Numerical Methods
+ - https://www.codesansar.com/online-calculator/
+ 
 ### Computer Organization and Archeticture
 * <b> Computer Architecture Complete Course By Princeton University : <\b>
     * Part 1 : https://www.youtube.com/watch?v=9nuAjYRbITQ
