@@ -67,6 +67,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 
 ### Software Requirement Engineering
   * Requirements Engineering: Secure Software Specifications Specialization Coursera : https://www.coursera.org/specializations/requirements-engineering-secure-software
+ * [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions)
   
 ### Computer Networks
 
