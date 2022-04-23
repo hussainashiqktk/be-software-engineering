@@ -36,6 +36,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
   * https://www.interviewbit.com/
   * [Slideshare downloader](https://slidesharedownloader.ngelmat.net/)
   * [Figma](figma.com)
+  * [Flash Card Maker](http://www.kitzkikz.com/flashcards/)
 
 ## Academics
 
