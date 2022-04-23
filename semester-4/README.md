@@ -25,6 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
    * [Cisco Packet Tracer 2021 || ❗ Crash Course ❗](https://www.youtube.com/watch?v=ty0HMs48U1k)
    * [Computer Communications Specialization Coursera](https://www.coursera.org/specializations/computer-communications)
    * [Free Cisco Courses](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
+   * [Packet Tracer Tutorials - Hindi](https://www.youtube.com/playlist?list=PLZURQ_XyXLwDBCD6BtfRP-Bc9DM4_U1Om)
 
 ### Mischallenous
    * https://gaia.cs.umass.edu/kurose_ross/interactive/
