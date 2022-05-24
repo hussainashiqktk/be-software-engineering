@@ -98,6 +98,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 * A visual simulator for teaching computer architecture using the RISC-V instruction set. : https://guillaume-savaton-eseo.github.io/emulsiV/
 * CPU-OS Simulator : https://teach-sim.com/os/
 * [Computer Architecture Coursera](https://www.coursera.org/learn/comparch)
+ [Assembly Simulator](https://cpulator.01xz.net/?sys=arm-de1soc)
 
 ### Theory of Automata and Formal Languages
 
