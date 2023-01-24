@@ -2,6 +2,7 @@
 # Intro to Computer Security
 
 - [The CIA Triad Scenarios](https://quizlet.com/475014153/the-cia-triad-scenarios-flash-cards/)
+- [Computer Security Principles And Practice Global 3rd Edition Stallings Solutions Manual](https://issuu.com/leandrabrenna/docs/computer-security-principles-and-practice-global-3)
 
 # Software Design and Architecture
 
