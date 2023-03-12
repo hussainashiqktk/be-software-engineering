@@ -11,3 +11,7 @@
 - [Introduction to Cryptography - TryHackMe](https://tryhackme.com/room/cryptographyintro)
 
 ### Courses
+
+## Introduction to Computer Security
+
+- (OWASP Top 10)[https://www.hacksplaining.com/owasp]
