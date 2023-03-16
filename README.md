@@ -83,6 +83,7 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 * [Computer Communications Specialization Coursera](https://www.coursera.org/specializations/computer-communications)
 * [Free Cisco Courses](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
 * [Cisco Packet Tracer 2021 || ❗ Crash Course ❗](https://www.youtube.com/watch?v=ty0HMs48U1k)
+* [Packet Tracer Labs](https://www.practicalnetworking.net/stand-alone/packet-tracer-labs/)
 
 
 ### Numerical Methods
